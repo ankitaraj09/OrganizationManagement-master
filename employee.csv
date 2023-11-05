@@ -1,0 +1,6 @@
+id,email,first_name,last_name,mobile,department_id,role_id,sub_organization_id
+1,john1.doe@acme.com,John1,Doe1,9623177492,1,1,1
+2,priya.verma@example.com,Priya,Verma,919876543567,2,2,2
+3,sophia1.miller@acme.com,Sophia1,Miller1,9621234567,3,3,3
+4,amit.sharma@example.com,Amit,Sharma,91XXXXXXXXXX,4,4,4
+5,rajesh.kumar@example.com,Rajesh,Kumar,916789453478,5,5,5
